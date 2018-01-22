@@ -1,0 +1,21 @@
+<?xml version = "1.0" emcoding = "UTF - 8" standalone = "yes" ?>
+<response>
+	<people>
+		<person>
+			<name>
+				Vladimir Svidersakij
+			</name>
+			<ssn>
+			as;dkjlhgf;sldfhg
+			</ssn>
+		</person>
+		<person>
+			<name>
+				Vsdgfsadgfij
+			</name>
+			<ssn>
+			aasdgfsadgfasdgfaswhg
+			</ssn>
+		</person>
+	</people>
+</response>
